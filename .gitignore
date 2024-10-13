@@ -1,0 +1,7 @@
+.venv
+__pycache__
+output_images
+images.parquet
+labels.parquet
+.DS_Store
+image_0_annotated.jpg
